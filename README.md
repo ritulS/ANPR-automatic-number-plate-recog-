@@ -2,7 +2,7 @@
 
 ## Goal: Detect License plate number
 
-##Tools used: OpenCv, Pytorch, Tesseract OCR
+## Tools used: OpenCv, Pytorch, Tesseract OCR
 
 ## Input Dataset: Images of Cars with License plates
 
