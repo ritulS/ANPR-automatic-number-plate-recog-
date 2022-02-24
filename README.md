@@ -1,6 +1,8 @@
 # ANPR-automatic-number-plate-recog-
 
-# Goal: Detect License plate number
+## Goal: Detect License plate number
+
+##Tools used: OpenCv, Pytorch, Tesseract OCR
 
 ## Input Dataset: Images of Cars with License plates
 
